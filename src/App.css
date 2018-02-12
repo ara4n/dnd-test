@@ -1,0 +1,17 @@
+.TileList {
+    width: 200px;
+    float: left;
+}
+
+.Tile {
+    margin: 2px;
+    width: 200px;
+}
+
+.Tile_body {
+    padding: 10px;
+    background-color: #f88;
+}
+
+.App {
+}
